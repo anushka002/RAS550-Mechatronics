@@ -2,6 +2,14 @@
 
 ## Lab Assignment – Arduino Uno LED Control & Data Collection  
 
+Members:
+
+1. Anushka Gangadhar Satav
+2. Chinmay Amrutkar
+3. Varad Jahagirdar
+4. Mohammad Nasr
+5. Sukhpreet Singh
+
 ### Team Submission  
 
 This lab demonstrates real-time embedded control on the **Arduino Uno** board using **MATLAB Simulink (R2025a)**.  

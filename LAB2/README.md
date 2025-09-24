@@ -13,6 +13,10 @@ This lab focuses on **open-loop velocity control** of a DC motor using **PWM (Pu
 | <img width="250" alt="Arduino Uno" src="https://github.com/user-attachments/assets/2203837f-746f-4b6e-8214-7adb68a8c7d0" /> | <img width="250" alt="L298N Motor Driver" src="https://github.com/user-attachments/assets/048af7fa-cc8a-4546-8d2d-b68c417c9854" /> | <img width="250" alt="GA12-N20 Motor with Encoder" src="https://github.com/user-attachments/assets/df88ccd8-d7fd-4a69-9c8e-56ec57d347f2" /> |  
 |[Arduino Uno Datasheet (PDF)](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf) | [L298N Motor Driver Datasheet (PDF)](https://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) |[GA12-N20 Motor Datasheet (PDF)](https://www.handsontec.com/dataspecs/GA12-N20.pdf)  
 
+### Circuit Diagram
+
+<img width="727" height="710" alt="image" src="https://github.com/user-attachments/assets/23582813-5fad-415e-802c-78c769814993" />
+
 ---
 
 ### Tasks Completed  

@@ -43,20 +43,40 @@ The objective is to design and test a PI controller to regulate velocity in resp
 ### Submissions  
 
 - **Simulink Model Screenshot:** Block diagram showing PI controller, encoder interface, and PWM driver.  
+
+For Constant Input:
+
 <img width="1920" height="1020" alt="Screenshot 2025-09-25 162112" src="https://github.com/user-attachments/assets/b04f4c7e-a3ae-4621-8379-4da885c21403" />
 
+For Sine Input:
 
-1. Step Input
+<img width="1920" height="1020" alt="Screenshot 2025-10-01 000517" src="https://github.com/user-attachments/assets/2df7cdae-bd17-4be4-a134-4b49bc8f5b0a" />
+
+For Step Input:
+
+<img width="1920" height="1020" alt="Screenshot 2025-10-02 155722" src="https://github.com/user-attachments/assets/55d2c793-bf56-4114-ac9b-6fa77113e181" />
+
+---
+
+## Videos for different inputs
+#### 1. Constant Input
 
 
 https://github.com/user-attachments/assets/fb0b1a87-939e-4516-b65a-400038c26b57
 
+#### 2. Sine Input
 
+https://github.com/user-attachments/assets/61e36e87-e504-4099-97db-607468008250
+
+#### 3. Step Input
+
+https://github.com/user-attachments/assets/8acdfedc-0f69-4bac-ba60-0bf9be69aa70
 
 
 | Test Case | Video Output | Velocity Plot |
 |-----------|--------------|---------------|
-| Step Input | https://github.com/user-attachments/assets/fb0b1a87-939e-4516-b65a-400038c26b57 | <img width="1076" height="864" alt="Screenshot 2025-09-25 162120" src="https://github.com/user-attachments/assets/09570b3f-fd86-4416-b37c-ab9dcac49998" /> |
-| Sine Input | *(Add video link here)* | *(Add plot image here)* |
+| Constant Input | https://github.com/user-attachments/assets/fb0b1a87-939e-4516-b65a-400038c26b57 | <img width="1076" height="864" alt="Screenshot 2025-09-25 162120" src="https://github.com/user-attachments/assets/09570b3f-fd86-4416-b37c-ab9dcac49998" /> |
+| Sine Input | https://github.com/user-attachments/assets/61e36e87-e504-4099-97db-607468008250 |  <img width="1076" height="863" alt="lab3_sine_plot" src="https://github.com/user-attachments/assets/e489ab5e-fd08-45dc-bb6b-7523919614ed" /> |
+| Step Input | https://github.com/user-attachments/assets/8acdfedc-0f69-4bac-ba60-0bf9be69aa70 | <img width="1076" height="863" alt="lab3_step" src="https://github.com/user-attachments/assets/0371cee3-5707-4d00-8696-b77795378a2f" /> |
 
 ---

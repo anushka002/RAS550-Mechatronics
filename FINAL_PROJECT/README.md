@@ -14,6 +14,15 @@ The developed Simulink model processes real-time encoder feedback to compute mot
 
 The results demonstrate that PI control is sufficient and more practical for real-time motor velocity regulation, balancing simplicity, stability, and performance for embedded applications.
 
+
+## Video Demonstration:
+
+**YouTube Link:** [Watch the Final Project Demonstration](https://youtu.be/7MnH5enPX_s)  
+
+[![Watch the video](https://img.youtube.com/vi/7MnH5enPX_s/0.jpg)](https://youtu.be/7MnH5enPX_s)
+
+
+
 ---
 
 ## **1. Overview of the Simulink Model**
